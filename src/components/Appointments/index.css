@@ -1,0 +1,49 @@
+/* Write your CSS here */
+
+form {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.inputBox {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.labelling {
+  font-family: roboto;
+  font-size: 15px;
+  color: #b5b7c4;
+}
+
+.inputs {
+  font-family: roboto;
+  font-size: 18px;
+  font-weight: 500;
+  height: 40px;
+  width: 300px;
+}
+
+.btn {
+  background-color: blueviolet;
+  color: white;
+  height: 35px;
+  width: 70px;
+  font-family: roboto;
+  font-size: 17px;
+  border-width: 0px;
+  border-radius: 5px;
+}
+
+.Appointments {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.star {
+  height: 35px;
+  width: 100px;
+}

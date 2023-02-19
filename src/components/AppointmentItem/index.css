@@ -1,0 +1,10 @@
+/* Write your CSS here */
+
+.appointment-bg {
+  border-style: solid;
+  border-width: 2px;
+  border-color: #b5b7c4;
+  padding: 10px;
+  border-radius: 10px;
+  width: 450px;
+}
